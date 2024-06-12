@@ -1,0 +1,15 @@
+5 5  # Ukuran grid: 5 x 5
+
+# Petunjuk baris:
+2
+1 1
+3
+1 1
+2
+
+# Petunjuk kolom:
+1
+3
+1 1
+3
+1
